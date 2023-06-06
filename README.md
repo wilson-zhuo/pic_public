@@ -1,1 +1,1 @@
-# pic_public
+# pic_blogs
